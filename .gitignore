@@ -1,0 +1,15 @@
+data/*.pbf
+*.log
+*.txt
+data/*
+!data/.keep
+elevation_cache/*
+!elevation_cache/.keep
+graphs/*
+!graphs/.keep
+.DS_Store
+logs/ors/*
+!logs/ors/.keep
+logs/tomcat/*
+!logs/tomcat/.keep
+.env
